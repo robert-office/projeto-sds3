@@ -22,10 +22,12 @@
 
 <p> mMeu primeiro contato com os frameworks SpringBoot e ReactJs, como já tenho mais afinidade com PHP por ter trabalhado com a técnologia prefiro utilizar Laravel, mas percebi que os frameworks tem uma boa semelhança... </p>
 
-<h3>🏠 Projeto hospedado na Netilify: [Projeto](https://dsvendasrobert.netlify.app/) </h3>
+<h3>Projeto hospedado na Netilify: [Projeto](https://dsvendasrobert.netlify.app/) </h3>
 
-<h3>🏠 Cara do projeto</h3>
+
+<h3>Cara do projeto</h3>
 <p align="center"><img src="imgs/projeto.gif" title="projeto gif"></p>
+
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
