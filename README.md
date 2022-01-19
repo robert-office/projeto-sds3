@@ -13,7 +13,7 @@
 
 <!--Banner session-->
 <p align="center">
-  <img src="public/banner.PNG" alt="imagem banner" title="AcompanyOn">
+  <img src="imgs/sds3banner.PNG" alt="imagem banner" title="Projeto">
 </p>
 
 
@@ -25,7 +25,7 @@
 <h3>🏠 Projeto hospedado na Netilify: [Projeto](https://dsvendasrobert.netlify.app/) </h3>
 
 <h3>🏠 Cara do projeto</h3>
-<p align="center"><img src="public/landing.gif" title="Landing Page"></p>
+<p align="center"><img src="imgs/projeto.gif" title="projeto gif"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
